@@ -1,0 +1,80 @@
+.user-avatar {
+    width: 100px;
+    border-radius: 50%;
+    padding-top: 10px;
+}
+
+.content{
+    padding: 25px;
+    text-align: center;
+}
+
+
+.submit-btn {
+    background: orangered;
+    color: floralwhite;
+    font-size: 17px;
+    border: 1px solid orangered;
+}
+
+.users {
+    background: linear-gradient(#790909,#ff2e00);
+    border: 1px solid gold;
+    border-radius: 10px;
+}
+
+.repo-name {
+    background: antiquewhite;
+    border: 1px solid antiquewhite;
+    border-radius: 10px;
+}
+
+.repo-btn {
+    color: white;
+    background: green;
+}
+
+.name-wrapper {
+    font-size: 24px;
+    font-family: Helvetica;
+    color: palegoldenrod;
+}
+
+td, li {
+    font-size: 18px;
+}
+
+h1{
+    font-family: Helvetica;
+    color: red;
+    font-weight: 600;
+}
+
+.intro-text-wrapper {
+    font-family: cursive;
+    font-size: 24px;
+}
+
+.file-order {
+    list-style-type: none;
+}
+
+.file-name {
+    color: red;
+    font-style: italic;
+    font-size: 18px;
+}
+
+.user-not-found {
+    font-size: 18px;
+    font-style: italic;
+}
+
+span.name {
+    color: red;
+    font-weight: bold;
+}
+
+li{
+    color: black;
+}
